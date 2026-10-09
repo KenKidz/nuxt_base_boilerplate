@@ -35,7 +35,7 @@ export default defineNuxtConfig({
   },
 
   i18n: {
-    restructureDir: 'app/i18n/i18n',
+    restructureDir: 'app/i18n',
     locales: [
       { code: 'en', name: 'English' },
       { code: 'vi', name: 'Vietnamese' },
